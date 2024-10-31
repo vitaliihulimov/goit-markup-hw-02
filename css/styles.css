@@ -114,19 +114,15 @@ a {
   cursor: pointer;
 }
 .button {
-  box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
   background: #4d5ae5;
 }
 .button:hover {
-  box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
   background: #404bbf;
 }
 .button:focus {
-  box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
   background: #404bbf;
 }
 .button:active {
-  box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
   background: #404bbf;
 }
 .strategy {
@@ -161,7 +157,7 @@ a {
   color: #2e2f42;
   text-transform: capitalize;
 }
-.team-list {
+.team-item {
   background-color: #ffffff;
 }
 .our-team {
